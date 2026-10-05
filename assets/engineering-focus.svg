@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-label="Engineering focus: Laravel, API engineering, database design, business workflows, performance, testing">
+<rect width="1200" height="250" rx="18" fill="#081713"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="48" y="48" fill="#e9f1ed" font-size="22" font-weight="700">ENGINEERING FOCUS</text>
+<text x="48" y="75" fill="#8ea39c" font-size="14">The areas I am deliberately strengthening in public.</text>
+<g fill="none" stroke="#315e53" stroke-width="2">
+<path d="M260 125H310M440 125H490M620 125H670M800 125H850"/>
+</g>
+<g fill="#0e2821" stroke="#4fb7a2" stroke-width="1.5">
+<rect x="80" y="100" width="180" height="52" rx="12"/><rect x="310" y="100" width="130" height="52" rx="12"/>
+<rect x="490" y="100" width="130" height="52" rx="12"/><rect x="670" y="100" width="130" height="52" rx="12"/>
+<rect x="850" y="100" width="150" height="52" rx="12"/>
+</g>
+<g fill="#dce9e4" font-size="14" font-weight="600" text-anchor="middle">
+<text x="170" y="131">Laravel / PHP</text><text x="375" y="131">API</text><text x="555" y="131">Database</text>
+<text x="735" y="131">Workflows</text><text x="925" y="131">Performance</text>
+</g>
+<text x="540" y="205" fill="#79c8b6" font-size="15" text-anchor="middle">Testing · observability · maintainable architecture</text>
+</g>
+</svg>
