@@ -3,8 +3,9 @@
 <img src="./assets/profile-header.svg" alt="Julynard Tago-on — Laravel / PHP Full-Stack Engineer" width="100%">
 
 <p>
-  <a href="https://julynardtago-on.netlify.app/">Portfolio</a> ·
-  <a href="https://github.com/Julynard">GitHub</a>
+  <a href="https://julynardtago-on.netlify.app/"><img src="https://img.shields.io/badge/Website-315A9B?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://ph.linkedin.com/in/julynard-tago-on"><img src="https://img.shields.io/badge/LinkedIn-0A8ACB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/julynard10/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 </div>
@@ -19,7 +20,7 @@ My strongest area is the Laravel/PHP ecosystem, with experience across applicati
 
 ## Skills
 
-<img src="./assets/skills-v2.svg" alt="Julynard Tago-on skills" width="100%">
+<img src="./assets/skills-v3.svg" alt="Julynard Tago-on skills" width="100%">
 
 ## GitHub Stats
 
