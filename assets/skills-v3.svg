@@ -1,59 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 920" role="img" aria-label="Skills">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071512"/><stop offset="1" stop-color="#0c211b"/></linearGradient><filter id="soft"><feGaussianBlur stdDeviation="18"/></filter></defs>
-<rect width="1200" height="920" rx="20" fill="url(#bg)"/><circle cx="1080" cy="80" r="100" fill="#4fb7a2" opacity=".07" filter="url(#soft)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1040" role="img" aria-label="Skills">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#071512"/><stop offset="1" stop-color="#0c211b"/>
+</linearGradient>
+<filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="1040" rx="20" fill="url(#bg)"/>
+<circle cx="1080" cy="80" r="100" fill="#4fb7a2" opacity=".07" filter="url(#soft)"/>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
-<text x="60" y="58" fill="#e9f1ed" font-size="28" font-weight="700">Skills</text>
+<text x="60" y="58" fill="#e9f1ed" font-size="30" font-weight="700">Skills</text>
 <text x="60" y="88" fill="#8ea39c" font-size="15">Core technologies actively used or hands-on experience.</text>
-<g fill="#0a1d18" stroke="#21483e" stroke-width="1"><rect x="50" y="120" width="530" height="235" rx="16"/><rect x="620" y="120" width="530" height="235" rx="16"/><rect x="50" y="375" width="530" height="235" rx="16"/><rect x="620" y="375" width="530" height="235" rx="16"/><rect x="50" y="630" width="530" height="235" rx="16"/><rect x="620" y="630" width="530" height="235" rx="16"/></g>
-<g fill="#79c8b6" font-size="15" font-weight="700"><text x="76" y="153">Backend</text><text x="646" y="153">Frontend</text><text x="76" y="408">Data</text><text x="646" y="408">Integrations</text><text x="76" y="663">DevOps and quality</text><text x="646" y="663">Ways of working</text></g>
 
-<!-- larger pills -->
-<g fill="#0d2a22" stroke="#386f61" stroke-width="1">
-<!-- Backend -->
-<rect x="76" y="178" width="78" height="40" rx="20"/><rect x="164" y="178" width="152" height="40" rx="20"/><rect x="326" y="178" width="120" height="40" rx="20"/><rect x="456" y="178" width="98" height="40" rx="20"/>
-<rect x="76" y="230" width="166" height="40" rx="20"/><rect x="252" y="230" width="116" height="40" rx="20"/><rect x="378" y="230" width="176" height="40" rx="20"/>
-<!-- Frontend -->
-<rect x="646" y="178" width="142" height="40" rx="20"/><rect x="798" y="178" width="116" height="40" rx="20"/><rect x="924" y="178" width="112" height="40" rx="20"/><rect x="1046" y="178" width="78" height="40" rx="20"/>
-<rect x="646" y="230" width="92" height="40" rx="20"/><rect x="750" y="230" width="84" height="40" rx="20"/><rect x="846" y="230" width="82" height="40" rx="20"/><rect x="940" y="230" width="82" height="40" rx="20"/>
-<!-- Data -->
-<rect x="76" y="433" width="88" height="40" rx="20"/><rect x="174" y="433" width="100" height="40" rx="20"/><rect x="284" y="433" width="146" height="40" rx="20"/><rect x="440" y="433" width="114" height="40" rx="20"/>
-<rect x="76" y="485" width="120" height="40" rx="20"/><rect x="206" y="485" width="170" height="40" rx="20"/><rect x="386" y="485" width="150" height="40" rx="20"/>
-<rect x="76" y="537" width="104" height="40" rx="20"/><rect x="190" y="537" width="138" height="40" rx="20"/>
-<!-- Integrations -->
-<rect x="646" y="433" width="112" height="40" rx="20"/><rect x="770" y="433" width="164" height="40" rx="20"/><rect x="946" y="433" width="92" height="40" rx="20"/><rect x="1050" y="433" width="74" height="40" rx="20"/>
-<rect x="646" y="485" width="188" height="40" rx="20"/><rect x="846" y="485" width="146" height="40" rx="20"/><rect x="1004" y="485" width="120" height="40" rx="20"/>
-<rect x="646" y="537" width="92" height="40" rx="20"/>
-<!-- DevOps -->
-<rect x="76" y="688" width="92" height="40" rx="20"/><rect x="180" y="688" width="104" height="40" rx="20"/><rect x="296" y="688" width="82" height="40" rx="20"/><rect x="390" y="688" width="104" height="40" rx="20"/><rect x="506" y="688" width="48" height="40" rx="20"/>
-<rect x="76" y="740" width="238" height="40" rx="20"/><rect x="326" y="740" width="92" height="40" rx="20"/><rect x="430" y="740" width="112" height="40" rx="20"/>
-<rect x="76" y="792" width="164" height="40" rx="20"/><rect x="252" y="792" width="118" height="40" rx="20"/>
-<!-- Ways -->
-<rect x="646" y="688" width="136" height="40" rx="20"/><rect x="794" y="688" width="76" height="40" rx="20"/><rect x="882" y="688" width="102" height="40" rx="20"/><rect x="996" y="688" width="128" height="40" rx="20"/>
-<rect x="646" y="740" width="116" height="40" rx="20"/><rect x="774" y="740" width="196" height="40" rx="20"/><rect x="982" y="740" width="142" height="40" rx="20"/>
+<rect x="50" y="120" width="540" height="265" rx="16" fill="#0a1d18" stroke="#21483e"/>
+<text x="76" y="153" fill="#79c8b6" font-size="16" font-weight="700">Backend</text>
+<g fill="#0d2a22" stroke="#386f61">
+<rect x="76" y="172" width="92" height="46" rx="23"/><rect x="178" y="172" width="190" height="46" rx="23"/><rect x="378" y="172" width="148" height="46" rx="23"/>
+<rect x="76" y="226" width="196" height="46" rx="23"/><rect x="282" y="226" width="136" height="46" rx="23"/><rect x="428" y="226" width="96" height="46" rx="23"/>
+<rect x="76" y="280" width="210" height="46" rx="23"/>
+</g>
+<g fill="#dce9e4" font-size="16" text-anchor="middle">
+<text x="122" y="202">PHP 8</text><text x="273" y="202">Laravel 5.8 to 12</text><text x="452" y="202">Laravel Nova</text>
+<text x="174" y="256">Horizon and queues</text><text x="350" y="256">CodeIgniter 4</text><text x="476" y="256">REST APIs</text>
+<text x="181" y="310">NetSuite SuiteScript</text>
 </g>
 
-<g fill="#dce9e4" font-size="13" text-anchor="middle">
-<!-- Backend -->
-<text x="115" y="203">PHP 8</text><text x="240" y="203">Laravel 5.8 to 12</text><text x="386" y="203">Laravel Nova</text><text x="505" y="203">REST APIs</text>
-<text x="159" y="255">Horizon and queues</text><text x="310" y="255">CodeIgniter 4</text><text x="466" y="255">NetSuite SuiteScript</text>
-<!-- Frontend -->
-<text x="717" y="203">Vue.js 2 and 3</text><text x="856" y="203">Inertia.js</text><text x="980" y="203">JavaScript</text><text x="1085" y="203">HTML</text>
-<text x="692" y="255">jQuery</text><text x="792" y="255">Axios</text><text x="887" y="255">Tailwind CSS</text><text x="981" y="255">CSS</text>
-<!-- Data -->
-<text x="120" y="458">MySQL</text><text x="224" y="458">Redis</text><text x="357" y="458">Multi-tenant databases</text><text x="497" y="458">Bulk CSV / Excel</text>
-<text x="136" y="510">Power BI feeds</text><text x="291" y="510">Query optimization</text><text x="461" y="510">N+1 elimination</text>
-<text x="128" y="562">Views</text><text x="259" y="562">Import / export</text>
-<!-- Integrations -->
-<text x="702" y="458">Salesforce</text><text x="852" y="458">PayPal subscriptions</text><text x="992" y="458">PayMaya</text><text x="1087" y="458">AWS S3</text>
-<text x="740" y="510">Google OAuth / SSO</text><text x="919" y="510">Firebase Cloud Messaging</text><text x="1064" y="510">SFTP ingestion</text>
-<text x="692" y="562">MinIO</text>
-<!-- DevOps -->
-<text x="122" y="713">Docker</text><text x="232" y="713">Jenkins</text><text x="337" y="713">CI/CD</text><text x="442" y="713">GitHub</text><text x="530" y="713">GitLab</text>
-<text x="195" y="765">Git (GitHub, GitLab, Bitbucket)</text><text x="372" y="765">PHPUnit</text><text x="486" y="765">PHPStan</text>
-<text x="158" y="817">PHP_CodeSniffer</text><text x="311" y="817">Laravel Pint</text>
-<!-- Ways -->
-<text x="714" y="713">Agile and Scrum</text><text x="832" y="713">Jira</text><text x="933" y="713">Code review</text><text x="1060" y="713">Technical design specs</text>
-<text x="704" y="765">QA test plans</text><text x="872" y="765">AI-assisted development</text><text x="1053" y="765">Claude Code</text>
+<rect x="610" y="120" width="540" height="265" rx="16" fill="#0a1d18" stroke="#21483e"/>
+<text x="636" y="153" fill="#79c8b6" font-size="16" font-weight="700">Frontend</text>
+<g fill="#0d2a22" stroke="#386f61">
+<rect x="636" y="172" width="176" height="46" rx="23"/><rect x="822" y="172" width="116" height="46" rx="23"/><rect x="948" y="172" width="110" height="46" rx="23"/>
+<rect x="636" y="226" width="92" height="46" rx="23"/><rect x="738" y="226" width="100" height="46" rx="23"/><rect x="848" y="226" width="86" height="46" rx="23"/><rect x="944" y="226" width="112" height="46" rx="23"/>
+<rect x="636" y="280" width="92" height="46" rx="23"/>
 </g>
-<path d="M50 885H1150" stroke="#21483e"/>
-</g></svg>
+<g fill="#dce9e4" font-size="16" text-anchor="middle">
+<text x="724" y="202">Vue.js 2 and 3</text><text x="880" y="202">Inertia.js</text><text x="1003" y="202">JavaScript</text>
+<text x="682" y="256">HTML</text><text x="788" y="256">jQuery</text><text x="891" y="256">Axios</text><text x="1000" y="256">Tailwind CSS</text>
+<text x="682" y="310">CSS</text>
+</g>
+
+<rect x="50" y="415" width="540" height="265" rx="16" fill="#0a1d18" stroke="#21483e"/>
+<text x="76" y="448" fill="#79c8b6" font-size="16" font-weight="700">Data</text>
+<g fill="#0d2a22" stroke="#386f61">
+<rect x="76" y="467" width="92" height="46" rx="23"/><rect x="178" y="467" width="92" height="46" rx="23"/><rect x="280" y="467" width="200" height="46" rx="23"/>
+<rect x="76" y="521" width="168" height="46" rx="23"/><rect x="254" y="521" width="144" height="46" rx="23"/><rect x="408" y="521" width="126" height="46" rx="23"/>
+<rect x="76" y="575" width="132" height="46" rx="23"/><rect x="218" y="575" width="136" height="46" rx="23"/><rect x="364" y="575" width="142" height="46" rx="23"/>
+</g>
+<g fill="#dce9e4" font-size="16" text-anchor="middle">
+<text x="122" y="497">MySQL</text><text x="224" y="497">Redis</text><text x="380" y="497">Multi-tenant databases</text>
+<text x="160" y="551">Bulk CSV / Excel</text><text x="326" y="551">Power BI feeds</text><text x="471" y="551">Query optimization</text>
+<text x="142" y="605">N+1 elimination</text><text x="286" y="605">Views</text><text x="435" y="605">Import / export</text>
+</g>
+
+<rect x="610" y="415" width="540" height="265" rx="16" fill="#0a1d18" stroke="#21483e"/>
+<text x="636" y="448" fill="#79c8b6" font-size="16" font-weight="700">Integrations</text>
+<g fill="#0d2a22" stroke="#386f61">
+<rect x="636" y="467" width="112" height="46" rx="23"/><rect x="758" y="467" width="190" height="46" rx="23"/><rect x="958" y="467" width="92" height="46" rx="23"/>
+<rect x="636" y="521" width="92" height="46" rx="23"/><rect x="738" y="521" width="188" height="46" rx="23"/><rect x="936" y="521" width="190" height="46" rx="23"/>
+<rect x="636" y="575" width="140" height="46" rx="23"/><rect x="786" y="575" width="92" height="46" rx="23"/>
+</g>
+<g fill="#dce9e4" font-size="16" text-anchor="middle">
+<text x="692" y="497">Salesforce</text><text x="853" y="497">PayPal subscriptions</text><text x="1004" y="497">PayMaya</text>
+<text x="682" y="551">AWS S3</text><text x="832" y="551">Google OAuth / SSO</text><text x="1031" y="551">Firebase Cloud Messaging</text>
+<text x="706" y="605">SFTP ingestion</text><text x="832" y="605">MinIO</text>
+</g>
+
+<rect x="50" y="710" width="540" height="265" rx="16" fill="#0a1d18" stroke="#21483e"/>
+<text x="76" y="743" fill="#79c8b6" font-size="16" font-weight="700">DevOps and quality</text>
+<g fill="#0d2a22" stroke="#386f61">
+<rect x="76" y="762" width="94" height="46" rx="23"/><rect x="180" y="762" width="100" height="46" rx="23"/><rect x="290" y="762" width="88" height="46" rx="23"/><rect x="388" y="762" width="100" height="46" rx="23"/>
+<rect x="76" y="816" width="92" height="46" rx="23"/><rect x="178" y="816" width="310" height="46" rx="23"/>
+<rect x="76" y="870" width="112" height="46" rx="23"/><rect x="198" y="870" width="100" height="46" rx="23"/><rect x="308" y="870" width="168" height="46" rx="23"/>
+</g>
+<g fill="#dce9e4" font-size="16" text-anchor="middle">
+<text x="123" y="792">Docker</text><text x="230" y="792">Jenkins</text><text x="334" y="792">CI/CD</text><text x="438" y="792">GitHub</text>
+<text x="122" y="846">GitLab</text><text x="333" y="846">Git (GitHub, GitLab, Bitbucket)</text>
+<text x="132" y="900">PHPUnit</text><text x="248" y="900">PHPStan</text><text x="392" y="900">PHP_CodeSniffer</text>
+</g>
+<rect x="486" y="870" width="92" height="46" rx="23" fill="#0d2a22" stroke="#386f61"/>
+<text x="532" y="900" fill="#dce9e4" font-size="16" text-anchor="middle">Laravel Pint</text>
+
+<rect x="610" y="710" width="540" height="265" rx="16" fill="#0a1d18" stroke="#21483e"/>
+<text x="636" y="743" fill="#79c8b6" font-size="16" font-weight="700">Ways of working</text>
+<g fill="#0d2a22" stroke="#386f61">
+<rect x="636" y="762" width="154" height="46" rx="23"/><rect x="800" y="762" width="74" height="46" rx="23"/><rect x="884" y="762" width="118" height="46" rx="23"/><rect x="1012" y="762" width="112" height="46" rx="23"/>
+<rect x="636" y="816" width="130" height="46" rx="23"/><rect x="776" y="816" width="188" height="46" rx="23"/><rect x="974" y="816" width="136" height="46" rx="23"/>
+</g>
+<g fill="#dce9e4" font-size="16" text-anchor="middle">
+<text x="713" y="792">Agile and Scrum</text><text x="837" y="792">Jira</text><text x="943" y="792">Code review</text><text x="1068" y="792">Technical design specs</text>
+<text x="701" y="846">QA test plans</text><text x="870" y="846">AI-assisted development</text><text x="1042" y="846">Claude Code</text>
+</g>
+
+<path d="M50 985H1150" stroke="#21483e"/>
+</g>
+</svg>
