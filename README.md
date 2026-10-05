@@ -67,15 +67,13 @@ Good engineering is not about having the most layers. It is about having boundar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Julynard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071512&title_color=79c8b6&text_color=dce9e4&icon_color=4fb7a2&ring_color=4fb7a2" alt="Julynard's GitHub statistics">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julynard&theme=github_dark&bg_color=071512&title_color=79c8b6&text_color=dce9e4&icon_color=4fb7a2&chart_color=4fb7a2" alt="Julynard's GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julynard&layout=compact&hide_border=true&bg_color=071512&title_color=79c8b6&text_color=dce9e4" alt="Julynard's most used languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julynard&theme=github_dark&bg_color=071512&title_color=79c8b6&text_color=dce9e4&icon_color=4fb7a2&chart_color=4fb7a2" alt="Julynard's repository languages">
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Julynard&bg_color=071512&color=79c8b6&line=4fb7a2&point=dce9e4&area=true&hide_border=true" alt="GitHub contribution activity">
-
-**Contribution activity:** GitHub's contribution graph can include private contributions when private contribution visibility is enabled on the profile. The statistics card above requests private contributions as well; whether private totals appear depends on the statistics service's access to that data.
+**Private contributions:** GitHub's own profile contribution graph can show private contributions without exposing private repository names or code when private contribution visibility is enabled. The third-party stats cards above use publicly accessible profile data.
 
 ## Achievements
 
