@@ -13,19 +13,13 @@
 
 I am a full-stack engineer focused on building software that is **clear, maintainable, and useful to the business**.
 
-My strongest area is the Laravel/PHP ecosystem, with experience across:
-
-- Application and API development
-- Relational database design and optimization
-- Authentication and authorization
-- Business workflows and integrations
-- Vue.js, Inertia.js, and Livewire
-- Testing and code quality
-- Performance and maintainability
-
-My goal with this profile is to document the engineering behind the work, not just collect repositories.
+My strongest area is the Laravel/PHP ecosystem, with experience across application and API development, relational database design, authentication and authorization, business workflows, Vue/Inertia/Livewire frontends, testing, and performance.
 
 <img src="./assets/engineering-focus.svg" alt="Engineering focus" width="100%">
+
+## Skills
+
+<img src="./assets/skills.svg" alt="Julynard Tago-on skills" width="100%">
 
 ## Selected Work
 
@@ -36,23 +30,21 @@ My goal with this profile is to document the engineering behind the work, not ju
 | [Auth API / ITEXMO](https://github.com/Julynard/auth-api-itexmo) | Laravel API, Sanctum authentication, Vue frontend, external messaging integration |
 | [Ordering System](https://github.com/Julynard/ordering-system) | Laravel business-domain application with ordering workflows and administration |
 
-> These are existing projects and experiments. I am deliberately improving the strongest ones while building new projects with a stronger engineering focus.
-
 ## Current Focus
 
-### 01 — Production Laravel API
+### Production Laravel API
 
 A multi-tenant API demonstrating authentication, authorization, database design, transactions, API contracts, testing, and maintainable architecture.
 
-### 02 — Business Workflow System
+### Business Workflow System
 
 A realistic workflow application demonstrating approvals, permissions, notifications, queues, audit history, and failure handling.
 
-### 03 — Laravel Performance Project
+### Laravel Performance Project
 
 A measurable performance case study covering database indexing, query optimization, caching, pagination, profiling, and before/after benchmarks.
 
-These projects will be treated as engineering case studies rather than feature demos.
+> The goal is not to accumulate repositories. It is to build a small number of projects that demonstrate engineering judgment.
 
 ## Engineering Principles
 
@@ -71,19 +63,17 @@ Tests should protect business behavior, authorization, validation, API contracts
 **Keep systems understandable**  
 Good engineering is not about having the most layers. It is about having boundaries that make a system easier to change safely.
 
-## Core Stack
+## GitHub Activity
 
-**Backend**  
-PHP · Laravel · MySQL · PostgreSQL · REST APIs
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Julynard&bg_color=071512&color=79c8b6&line=4fb7a2&point=dce9e4&area=true&hide_border=true" alt="GitHub contribution activity">
 
-**Frontend**  
-Vue.js · Inertia.js · Livewire · Tailwind CSS
+**Current public contribution snapshot:** 67 commits · 5 pull requests · 6 repositories contributed to in the current yearly contribution window.
 
-**Quality**  
-PHPUnit · PHPStan / Larastan · Laravel Pint
+## Achievements
 
-**Tools**  
-Git · GitHub · Docker · Postman · Linux
+I currently have **no major public GitHub achievements or open-source recognition** to feature prominently.
+
+I would rather leave this section honest than manufacture credibility. The goal is to earn this section through real contributions, packages, stars, merged PRs, and useful public software.
 
 ## Portfolio
 
