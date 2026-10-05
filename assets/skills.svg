@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Skills">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 920" role="img" aria-label="Skills grouped by Backend, Frontend, Data, Integrations, DevOps and quality, and Ways of working">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#071512"/>
@@ -6,78 +6,177 @@
   </linearGradient>
   <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
 </defs>
-
-<rect width="1200" height="760" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="920" rx="20" fill="url(#bg)"/>
 <circle cx="1080" cy="80" r="100" fill="#4fb7a2" opacity=".07" filter="url(#soft)"/>
-<circle cx="80" cy="700" r="120" fill="#79c8b6" opacity=".045" filter="url(#soft)"/>
+<circle cx="80" cy="840" r="120" fill="#79c8b6" opacity=".045" filter="url(#soft)"/>
 
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <text x="60" y="62" fill="#e9f1ed" font-size="26" font-weight="700">SKILLS</text>
-  <text x="60" y="90" fill="#8ea39c" font-size="14">Core technologies actively used or hands-on experience.</text>
+  <text x="60" y="58" fill="#e9f1ed" font-size="26" font-weight="700">SKILLS</text>
+  <text x="60" y="86" fill="#8ea39c" font-size="14">Core technologies actively used or hands-on experience.</text>
 
-  <!-- Cards -->
+  <!-- Group cards -->
   <g fill="#0a1d18" stroke="#21483e" stroke-width="1">
-    <rect x="60" y="120" width="520" height="150" rx="16"/>
-    <rect x="620" y="120" width="520" height="150" rx="16"/>
-    <rect x="60" y="290" width="520" height="150" rx="16"/>
-    <rect x="620" y="290" width="520" height="150" rx="16"/>
-    <rect x="60" y="460" width="520" height="150" rx="16"/>
-    <rect x="620" y="460" width="520" height="150" rx="16"/>
+    <rect x="50" y="115" width="530" height="235" rx="16"/>
+    <rect x="620" y="115" width="530" height="235" rx="16"/>
+    <rect x="50" y="370" width="530" height="235" rx="16"/>
+    <rect x="620" y="370" width="530" height="235" rx="16"/>
+    <rect x="50" y="625" width="530" height="235" rx="16"/>
+    <rect x="620" y="625" width="530" height="235" rx="16"/>
   </g>
 
   <!-- Category labels -->
   <g fill="#79c8b6" font-size="14" font-weight="700">
-    <text x="84" y="151">BACKEND</text>
-    <text x="644" y="151">FRONTEND</text>
-    <text x="84" y="321">DATA</text>
-    <text x="644" y="321">INTEGRATIONS</text>
-    <text x="84" y="491">DEVOPS AND QUALITY</text>
-    <text x="644" y="491">WAYS OF WORKING</text>
+    <text x="76" y="148">BACKEND</text>
+    <text x="646" y="148">FRONTEND</text>
+    <text x="76" y="403">DATA</text>
+    <text x="646" y="403">INTEGRATIONS</text>
+    <text x="76" y="658">DEVOPS AND QUALITY</text>
+    <text x="646" y="658">WAYS OF WORKING</text>
   </g>
 
+  <!-- reusable pill style: dark fill, teal border, centered text -->
   <!-- Backend -->
-  <g fill="#dce9e4" font-size="14">
-    <text x="84" y="181">PHP 8 · Laravel 5.8 to 12 · Laravel Nova</text>
-    <text x="84" y="207">Horizon and queues · REST APIs · CodeIgniter 4</text>
-    <text x="84" y="233">NetSuite SuiteScript</text>
+  <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
+    <rect x="76" y="170" width="72" height="34" rx="17"/>
+    <rect x="158" y="170" width="142" height="34" rx="17"/>
+    <rect x="310" y="170" width="112" height="34" rx="17"/>
+    <rect x="432" y="170" width="112" height="34" rx="17"/>
+    <rect x="76" y="214" width="152" height="34" rx="17"/>
+    <rect x="238" y="214" width="104" height="34" rx="17"/>
+    <rect x="352" y="214" width="128" height="34" rx="17"/>
+    <rect x="76" y="258" width="168" height="34" rx="17"/>
+  </g>
+  <g fill="#dce9e4" font-size="11.5" text-anchor="middle">
+    <text x="112" y="192">PHP 8</text>
+    <text x="229" y="192">Laravel 5.8 to 12</text>
+    <text x="366" y="192">Laravel Nova</text>
+    <text x="488" y="192">REST APIs</text>
+    <text x="152" y="236">Horizon and queues</text>
+    <text x="290" y="236">CodeIgniter 4</text>
+    <text x="416" y="236">NetSuite SuiteScript</text>
   </g>
 
   <!-- Frontend -->
-  <g fill="#dce9e4" font-size="14">
-    <text x="644" y="181">Vue.js 2 and 3 · Inertia.js · JavaScript</text>
-    <text x="644" y="207">Tailwind CSS · jQuery · Axios · HTML · CSS</text>
+  <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
+    <rect x="646" y="170" width="126" height="34" rx="17"/>
+    <rect x="782" y="170" width="108" height="34" rx="17"/>
+    <rect x="900" y="170" width="108" height="34" rx="17"/>
+    <rect x="1018" y="170" width="106" height="34" rx="17"/>
+    <rect x="646" y="214" width="92" height="34" rx="17"/>
+    <rect x="748" y="214" width="78" height="34" rx="17"/>
+    <rect x="836" y="214" width="76" height="34" rx="17"/>
+    <rect x="922" y="214" width="78" height="34" rx="17"/>
+  </g>
+  <g fill="#dce9e4" font-size="11.5" text-anchor="middle">
+    <text x="709" y="192">Vue.js 2 and 3</text>
+    <text x="836" y="192">Inertia.js</text>
+    <text x="954" y="192">JavaScript</text>
+    <text x="1071" y="192">Tailwind CSS</text>
+    <text x="692" y="236">jQuery</text>
+    <text x="787" y="236">Axios</text>
+    <text x="874" y="236">HTML</text>
+    <text x="961" y="236">CSS</text>
   </g>
 
   <!-- Data -->
-  <g fill="#dce9e4" font-size="14">
-    <text x="84" y="351">MySQL (views, query optimization, N+1 elimination)</text>
-    <text x="84" y="377">Redis · multi-tenant databases · bulk CSV and Excel</text>
-    <text x="84" y="403">import/export · Power BI feeds</text>
+  <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
+    <rect x="76" y="425" width="78" height="34" rx="17"/>
+    <rect x="164" y="425" width="96" height="34" rx="17"/>
+    <rect x="270" y="425" width="128" height="34" rx="17"/>
+    <rect x="408" y="425" width="144" height="34" rx="17"/>
+    <rect x="76" y="469" width="76" height="34" rx="17"/>
+    <rect x="162" y="469" width="176" height="34" rx="17"/>
+    <rect x="348" y="469" width="130" height="34" rx="17"/>
+    <rect x="76" y="513" width="164" height="34" rx="17"/>
+    <rect x="250" y="513" width="128" height="34" rx="17"/>
   </g>
+  <g fill="#dce9e4" font-size="11" text-anchor="middle">
+    <text x="115" y="447">MySQL</text>
+    <text x="212" y="447">Redis</text>
+    <text x="334" y="447">multi-tenant databases</text>
+    <text x="480" y="447">bulk CSV / Excel</text>
+    <text x="114" y="491">Power BI</text>
+    <text x="250" y="491">query optimization</text>
+    <text x="413" y="491">N+1 elimination</text>
+    <text x="158" y="535">views</text>
+    <text x="314" y="535">import / export</text>
+  </g>
+  <text x="76" y="570" fill="#8ea39c" font-size="11">MySQL: views · query optimization · N+1 elimination</text>
 
   <!-- Integrations -->
-  <g fill="#dce9e4" font-size="14">
-    <text x="644" y="351">Salesforce · PayPal subscriptions · PayMaya</text>
-    <text x="644" y="377">Google OAuth and SSO · Firebase Cloud Messaging</text>
-    <text x="644" y="403">SFTP ingestion · AWS S3 · MinIO</text>
+  <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
+    <rect x="646" y="425" width="104" height="34" rx="17"/>
+    <rect x="760" y="425" width="154" height="34" rx="17"/>
+    <rect x="924" y="425" width="88" height="34" rx="17"/>
+    <rect x="1022" y="425" width="102" height="34" rx="17"/>
+    <rect x="646" y="469" width="132" height="34" rx="17"/>
+    <rect x="788" y="469" width="178" height="34" rx="17"/>
+    <rect x="976" y="469" width="148" height="34" rx="17"/>
+    <rect x="646" y="513" width="118" height="34" rx="17"/>
+    <rect x="774" y="513" width="82" height="34" rx="17"/>
+    <rect x="866" y="513" width="90" height="34" rx="17"/>
+  </g>
+  <g fill="#dce9e4" font-size="10.5" text-anchor="middle">
+    <text x="698" y="447">Salesforce</text>
+    <text x="837" y="447">PayPal subscriptions</text>
+    <text x="968" y="447">PayMaya</text>
+    <text x="1073" y="447">AWS S3</text>
+    <text x="712" y="491">Google OAuth / SSO</text>
+    <text x="877" y="491">Firebase Cloud Messaging</text>
+    <text x="1050" y="491">SFTP ingestion</text>
+    <text x="705" y="535">MinIO</text>
+    <text x="815" y="535">S3</text>
+    <text x="911" y="535">OAuth</text>
   </g>
 
-  <!-- DevOps and quality -->
-  <g fill="#dce9e4" font-size="14">
-    <text x="84" y="521">Docker · Jenkins · CI/CD</text>
-    <text x="84" y="547">Git (GitHub, GitLab, Bitbucket) · PHPUnit · PHPStan</text>
-    <text x="84" y="573">PHP_CodeSniffer · Laravel Pint</text>
+  <!-- DevOps -->
+  <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
+    <rect x="76" y="680" width="82" height="34" rx="17"/>
+    <rect x="168" y="680" width="94" height="34" rx="17"/>
+    <rect x="272" y="680" width="82" height="34" rx="17"/>
+    <rect x="364" y="680" width="108" height="34" rx="17"/>
+    <rect x="482" y="680" width="72" height="34" rx="17"/>
+    <rect x="76" y="724" width="162" height="34" rx="17"/>
+    <rect x="248" y="724" width="86" height="34" rx="17"/>
+    <rect x="344" y="724" width="112" height="34" rx="17"/>
+    <rect x="466" y="724" width="88" height="34" rx="17"/>
+    <rect x="76" y="768" width="150" height="34" rx="17"/>
+    <rect x="236" y="768" width="106" height="34" rx="17"/>
+  </g>
+  <g fill="#dce9e4" font-size="10.5" text-anchor="middle">
+    <text x="117" y="702">Docker</text>
+    <text x="215" y="702">Jenkins</text>
+    <text x="313" y="702">CI/CD</text>
+    <text x="418" y="702">GitHub</text>
+    <text x="518" y="702">GitLab</text>
+    <text x="157" y="746">Git: GitHub / GitLab</text>
+    <text x="291" y="746">Bitbucket</text>
+    <text x="400" y="746">PHPUnit</text>
+    <text x="510" y="746">PHPStan</text>
+    <text x="151" y="790">PHP_CodeSniffer</text>
+    <text x="289" y="790">Laravel Pint</text>
   </g>
 
   <!-- Ways of working -->
-  <g fill="#dce9e4" font-size="14">
-    <text x="644" y="521">Agile and Scrum · Jira · technical design specs</text>
-    <text x="644" y="547">code review · QA test plans</text>
-    <text x="644" y="573">AI-assisted development with Claude Code</text>
+  <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
+    <rect x="646" y="680" width="124" height="34" rx="17"/>
+    <rect x="780" y="680" width="76" height="34" rx="17"/>
+    <rect x="866" y="680" width="78" height="34" rx="17"/>
+    <rect x="954" y="680" width="144" height="34" rx="17"/>
+    <rect x="646" y="724" width="104" height="34" rx="17"/>
+    <rect x="760" y="724" width="106" height="34" rx="17"/>
+    <rect x="876" y="724" width="208" height="34" rx="17"/>
+  </g>
+  <g fill="#dce9e4" font-size="10.5" text-anchor="middle">
+    <text x="708" y="702">Agile and Scrum</text>
+    <text x="818" y="702">Jira</text>
+    <text x="905" y="702">code review</text>
+    <text x="1026" y="702">technical design specs</text>
+    <text x="698" y="746">QA test plans</text>
+    <text x="813" y="746">AI-assisted</text>
+    <text x="980" y="746">development with Claude Code</text>
   </g>
 
-  <path d="M60 660H1140" stroke="#21483e" stroke-width="1"/>
-  <circle cx="60" cy="660" r="4" fill="#4fb7a2"/>
-  <text x="60" y="695" fill="#aabbb5" font-size="14">Laravel / PHP · application architecture · APIs · business systems</text>
+  <path d="M50 885H1150" stroke="#21483e" stroke-width="1"/>
 </g>
 </svg>
