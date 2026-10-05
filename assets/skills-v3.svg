@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1040" role="img" aria-label="Skills">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#071512"/><stop offset="1" stop-color="#0c211b"/>
-</linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071512"/><stop offset="1" stop-color="#0c211b"/></linearGradient>
 <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
 </defs>
 <rect width="1200" height="1040" rx="20" fill="url(#bg)"/>
@@ -19,8 +17,8 @@
 <rect x="76" y="280" width="210" height="46" rx="23"/>
 </g>
 <g fill="#dce9e4" font-size="16" text-anchor="middle">
-<text x="122" y="202">PHP 8</text><text x="273" y="202">Laravel 5.8 to 12</text><text x="452" y="202">Laravel Nova</text>
-<text x="174" y="256">Horizon and queues</text><text x="350" y="256">CodeIgniter 4</text><text x="476" y="256">REST APIs</text>
+<text x="122" y="202">PHP</text><text x="273" y="202">Laravel</text><text x="452" y="202">Laravel Nova</text>
+<text x="174" y="256">Horizon and Queues</text><text x="350" y="256">CodeIgniter</text><text x="476" y="256">REST APIs</text>
 <text x="181" y="310">NetSuite SuiteScript</text>
 </g>
 
@@ -32,7 +30,7 @@
 <rect x="636" y="280" width="92" height="46" rx="23"/>
 </g>
 <g fill="#dce9e4" font-size="16" text-anchor="middle">
-<text x="724" y="202">Vue.js 2 and 3</text><text x="880" y="202">Inertia.js</text><text x="1003" y="202">JavaScript</text>
+<text x="724" y="202">Vue.js</text><text x="880" y="202">Inertia.js</text><text x="1003" y="202">JavaScript</text>
 <text x="682" y="256">HTML</text><text x="788" y="256">jQuery</text><text x="891" y="256">Axios</text><text x="1000" y="256">Tailwind CSS</text>
 <text x="682" y="310">CSS</text>
 </g>
@@ -45,9 +43,9 @@
 <rect x="76" y="575" width="132" height="46" rx="23"/><rect x="218" y="575" width="136" height="46" rx="23"/><rect x="364" y="575" width="142" height="46" rx="23"/>
 </g>
 <g fill="#dce9e4" font-size="16" text-anchor="middle">
-<text x="122" y="497">MySQL</text><text x="224" y="497">Redis</text><text x="380" y="497">Multi-tenant databases</text>
-<text x="160" y="551">Bulk CSV / Excel</text><text x="326" y="551">Power BI feeds</text><text x="471" y="551">Query optimization</text>
-<text x="142" y="605">N+1 elimination</text><text x="286" y="605">Views</text><text x="435" y="605">Import / export</text>
+<text x="122" y="497">MySQL</text><text x="224" y="497">Redis</text><text x="380" y="497">Multi-Tenant Databases</text>
+<text x="160" y="551">Bulk CSV / Excel</text><text x="326" y="551">Power BI Feeds</text><text x="471" y="551">Query Optimization</text>
+<text x="142" y="605">N+1 Elimination</text><text x="286" y="605">Views</text><text x="435" y="605">Import / Export</text>
 </g>
 
 <rect x="610" y="415" width="540" height="265" rx="16" fill="#0a1d18" stroke="#21483e"/>
@@ -58,13 +56,13 @@
 <rect x="636" y="575" width="140" height="46" rx="23"/><rect x="786" y="575" width="92" height="46" rx="23"/>
 </g>
 <g fill="#dce9e4" font-size="16" text-anchor="middle">
-<text x="692" y="497">Salesforce</text><text x="853" y="497">PayPal subscriptions</text><text x="1004" y="497">PayMaya</text>
+<text x="692" y="497">Salesforce</text><text x="853" y="497">PayPal Subscriptions</text><text x="1004" y="497">PayMaya</text>
 <text x="682" y="551">AWS S3</text><text x="832" y="551">Google OAuth / SSO</text><text x="1031" y="551">Firebase Cloud Messaging</text>
-<text x="706" y="605">SFTP ingestion</text><text x="832" y="605">MinIO</text>
+<text x="706" y="605">SFTP Ingestion</text><text x="832" y="605">MinIO</text>
 </g>
 
 <rect x="50" y="710" width="540" height="265" rx="16" fill="#0a1d18" stroke="#21483e"/>
-<text x="76" y="743" fill="#79c8b6" font-size="16" font-weight="700">DevOps and quality</text>
+<text x="76" y="743" fill="#79c8b6" font-size="16" font-weight="700">DevOps and Quality</text>
 <g fill="#0d2a22" stroke="#386f61">
 <rect x="76" y="762" width="94" height="46" rx="23"/><rect x="180" y="762" width="100" height="46" rx="23"/><rect x="290" y="762" width="88" height="46" rx="23"/><rect x="388" y="762" width="100" height="46" rx="23"/>
 <rect x="76" y="816" width="92" height="46" rx="23"/><rect x="178" y="816" width="310" height="46" rx="23"/>
@@ -79,14 +77,14 @@
 <text x="532" y="900" fill="#dce9e4" font-size="16" text-anchor="middle">Laravel Pint</text>
 
 <rect x="610" y="710" width="540" height="265" rx="16" fill="#0a1d18" stroke="#21483e"/>
-<text x="636" y="743" fill="#79c8b6" font-size="16" font-weight="700">Ways of working</text>
+<text x="636" y="743" fill="#79c8b6" font-size="16" font-weight="700">Ways of Working</text>
 <g fill="#0d2a22" stroke="#386f61">
 <rect x="636" y="762" width="154" height="46" rx="23"/><rect x="800" y="762" width="74" height="46" rx="23"/><rect x="884" y="762" width="118" height="46" rx="23"/><rect x="1012" y="762" width="112" height="46" rx="23"/>
 <rect x="636" y="816" width="130" height="46" rx="23"/><rect x="776" y="816" width="188" height="46" rx="23"/><rect x="974" y="816" width="136" height="46" rx="23"/>
 </g>
 <g fill="#dce9e4" font-size="16" text-anchor="middle">
-<text x="713" y="792">Agile and Scrum</text><text x="837" y="792">Jira</text><text x="943" y="792">Code review</text><text x="1068" y="792">Technical design specs</text>
-<text x="701" y="846">QA test plans</text><text x="870" y="846">AI-assisted development</text><text x="1042" y="846">Claude Code</text>
+<text x="713" y="792">Agile and Scrum</text><text x="837" y="792">Jira</text><text x="943" y="792">Code Review</text><text x="1068" y="792">Technical Design Specs</text>
+<text x="701" y="846">QA Test Plans</text><text x="870" y="846">AI-Assisted Development</text><text x="1042" y="846">Claude Code</text>
 </g>
 
 <path d="M50 985H1150" stroke="#21483e"/>
