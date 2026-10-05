@@ -6,15 +6,15 @@
   </linearGradient>
   <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
 </defs>
+
 <rect width="1200" height="920" rx="20" fill="url(#bg)"/>
 <circle cx="1080" cy="80" r="100" fill="#4fb7a2" opacity=".07" filter="url(#soft)"/>
 <circle cx="80" cy="840" r="120" fill="#79c8b6" opacity=".045" filter="url(#soft)"/>
 
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <text x="60" y="58" fill="#e9f1ed" font-size="26" font-weight="700">SKILLS</text>
+  <text x="60" y="58" fill="#e9f1ed" font-size="26" font-weight="700">Skills</text>
   <text x="60" y="86" fill="#8ea39c" font-size="14">Core technologies actively used or hands-on experience.</text>
 
-  <!-- Group cards -->
   <g fill="#0a1d18" stroke="#21483e" stroke-width="1">
     <rect x="50" y="115" width="530" height="235" rx="16"/>
     <rect x="620" y="115" width="530" height="235" rx="16"/>
@@ -24,17 +24,15 @@
     <rect x="620" y="625" width="530" height="235" rx="16"/>
   </g>
 
-  <!-- Category labels -->
   <g fill="#79c8b6" font-size="14" font-weight="700">
-    <text x="76" y="148">BACKEND</text>
-    <text x="646" y="148">FRONTEND</text>
-    <text x="76" y="403">DATA</text>
-    <text x="646" y="403">INTEGRATIONS</text>
-    <text x="76" y="658">DEVOPS AND QUALITY</text>
-    <text x="646" y="658">WAYS OF WORKING</text>
+    <text x="76" y="148">Backend</text>
+    <text x="646" y="148">Frontend</text>
+    <text x="76" y="403">Data</text>
+    <text x="646" y="403">Integrations</text>
+    <text x="76" y="658">DevOps and quality</text>
+    <text x="646" y="658">Ways of working</text>
   </g>
 
-  <!-- reusable pill style: dark fill, teal border, centered text -->
   <!-- Backend -->
   <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
     <rect x="76" y="170" width="72" height="34" rx="17"/>
@@ -44,7 +42,6 @@
     <rect x="76" y="214" width="152" height="34" rx="17"/>
     <rect x="238" y="214" width="104" height="34" rx="17"/>
     <rect x="352" y="214" width="128" height="34" rx="17"/>
-    <rect x="76" y="258" width="168" height="34" rx="17"/>
   </g>
   <g fill="#dce9e4" font-size="11.5" text-anchor="middle">
     <text x="112" y="192">PHP 8</text>
@@ -93,15 +90,14 @@
   <g fill="#dce9e4" font-size="11" text-anchor="middle">
     <text x="115" y="447">MySQL</text>
     <text x="212" y="447">Redis</text>
-    <text x="334" y="447">multi-tenant databases</text>
-    <text x="480" y="447">bulk CSV / Excel</text>
-    <text x="114" y="491">Power BI</text>
-    <text x="250" y="491">query optimization</text>
+    <text x="334" y="447">Multi-tenant databases</text>
+    <text x="480" y="447">Bulk CSV / Excel</text>
+    <text x="114" y="491">Power BI feeds</text>
+    <text x="250" y="491">Query optimization</text>
     <text x="413" y="491">N+1 elimination</text>
-    <text x="158" y="535">views</text>
-    <text x="314" y="535">import / export</text>
+    <text x="158" y="535">Views</text>
+    <text x="314" y="535">Import / export</text>
   </g>
-  <text x="76" y="570" fill="#8ea39c" font-size="11">MySQL: views · query optimization · N+1 elimination</text>
 
   <!-- Integrations -->
   <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
@@ -112,24 +108,20 @@
     <rect x="646" y="469" width="132" height="34" rx="17"/>
     <rect x="788" y="469" width="178" height="34" rx="17"/>
     <rect x="976" y="469" width="148" height="34" rx="17"/>
-    <rect x="646" y="513" width="118" height="34" rx="17"/>
-    <rect x="774" y="513" width="82" height="34" rx="17"/>
-    <rect x="866" y="513" width="90" height="34" rx="17"/>
+    <rect x="646" y="513" width="82" height="34" rx="17"/>
   </g>
   <g fill="#dce9e4" font-size="10.5" text-anchor="middle">
     <text x="698" y="447">Salesforce</text>
     <text x="837" y="447">PayPal subscriptions</text>
     <text x="968" y="447">PayMaya</text>
-    <text x="1073" y="447">AWS S3</text>
-    <text x="712" y="491">Google OAuth / SSO</text>
-    <text x="877" y="491">Firebase Cloud Messaging</text>
-    <text x="1050" y="491">SFTP ingestion</text>
-    <text x="705" y="535">MinIO</text>
-    <text x="815" y="535">S3</text>
-    <text x="911" y="535">OAuth</text>
+    <text x="1073" y="447">Google OAuth / SSO</text>
+    <text x="712" y="491">Firebase Cloud Messaging</text>
+    <text x="877" y="491">SFTP ingestion</text>
+    <text x="1050" y="491">AWS S3</text>
+    <text x="687" y="535">MinIO</text>
   </g>
 
-  <!-- DevOps -->
+  <!-- DevOps and quality -->
   <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
     <rect x="76" y="680" width="82" height="34" rx="17"/>
     <rect x="168" y="680" width="94" height="34" rx="17"/>
@@ -149,7 +141,7 @@
     <text x="313" y="702">CI/CD</text>
     <text x="418" y="702">GitHub</text>
     <text x="518" y="702">GitLab</text>
-    <text x="157" y="746">Git: GitHub / GitLab</text>
+    <text x="157" y="746">Git (GitHub, GitLab, Bitbucket)</text>
     <text x="291" y="746">Bitbucket</text>
     <text x="400" y="746">PHPUnit</text>
     <text x="510" y="746">PHPStan</text>
@@ -170,11 +162,11 @@
   <g fill="#dce9e4" font-size="10.5" text-anchor="middle">
     <text x="708" y="702">Agile and Scrum</text>
     <text x="818" y="702">Jira</text>
-    <text x="905" y="702">code review</text>
-    <text x="1026" y="702">technical design specs</text>
+    <text x="905" y="702">Code review</text>
+    <text x="1026" y="702">Technical design specs</text>
     <text x="698" y="746">QA test plans</text>
-    <text x="813" y="746">AI-assisted</text>
-    <text x="980" y="746">development with Claude Code</text>
+    <text x="813" y="746">AI-assisted development</text>
+    <text x="980" y="746">Claude Code</text>
   </g>
 
   <path d="M50 885H1150" stroke="#21483e" stroke-width="1"/>
