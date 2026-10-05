@@ -42,10 +42,5 @@ Core technologies actively used or hands-on experience.
 
 **GitHub:** [github.com/Julynard](https://github.com/Julynard)
 
----
+<img src="./assets/github-footer.svg" alt="Build. Measure. Improve." width="100%">
 
-<div align="center">
-
-**Build. Measure. Improve.**
-
-</div>
