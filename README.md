@@ -19,7 +19,7 @@ My strongest area is the Laravel/PHP ecosystem, with experience across applicati
 
 ## Skills
 
-<img src="./assets/skills.svg" alt="Julynard Tago-on skills" width="100%">
+<img src="./assets/skills-v2.svg" alt="Julynard Tago-on skills" width="100%">
 
 ## GitHub Stats
 
@@ -31,7 +31,7 @@ My strongest area is the Laravel/PHP ecosystem, with experience across applicati
 
 </div>
 
-> GitHub's own profile contribution graph can show private contributions without exposing private repository names or code when private contribution visibility is enabled. The third-party stats cards above use publicly accessible profile data.
+**Private contributions:** GitHub's own profile contribution graph can show private contributions without exposing private repository names or code when private contribution visibility is enabled. The third-party stats cards above use publicly accessible profile data.
 
 ## Portfolio
 
