@@ -1,30 +1,94 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-label="Skills: Laravel, PHP, MySQL, PostgreSQL, REST APIs, Vue.js, Inertia.js, Livewire, Tailwind CSS, PHPUnit, PHPStan, Laravel Pint, Git, Docker, Postman, Linux">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071512"/><stop offset="1" stop-color="#0c211b"/></linearGradient>
- <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071512"/>
+    <stop offset="1" stop-color="#0c211b"/>
+  </linearGradient>
+  <filter id="soft">
+    <feGaussianBlur stdDeviation="14"/>
+  </filter>
 </defs>
+
 <rect width="1200" height="460" rx="20" fill="url(#bg)"/>
-<circle cx="1040" cy="80" r="90" fill="#4fb7a2" opacity=".08" filter="url(#soft)"/>
-<circle cx="120" cy="390" r="110" fill="#79c8b6" opacity=".05" filter="url(#soft)"/>
+<circle cx="1035" cy="80" r="90" fill="#4fb7a2" opacity=".08" filter="url(#soft)"/>
+<circle cx="145" cy="400" r="110" fill="#79c8b6" opacity=".05" filter="url(#soft)"/>
+
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
-<text x="50" y="55" fill="#e9f1ed" font-size="24" font-weight="700">SKILLS</text>
-<text x="50" y="82" fill="#8ea39c" font-size="14">Core technologies I actively use or have hands-on experience with.</text>
+  <text x="60" y="58" fill="#e9f1ed" font-size="24" font-weight="700">SKILLS</text>
+  <text x="60" y="84" fill="#8ea39c" font-size="14">Core technologies I actively use or have hands-on experience with.</text>
 
-<g font-size="13" font-weight="600">
-<text x="50" y="125" fill="#79c8b6">BACKEND</text>
-<rect x="50" y="143" width="75" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="92" y="167" text-anchor="middle" fill="#dce9e4">PHP</text><rect x="130" y="143" width="85" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="172" y="167" text-anchor="middle" fill="#dce9e4">Laravel</text><rect x="225" y="143" width="75" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="267" y="167" text-anchor="middle" fill="#dce9e4">MySQL</text><rect x="312" y="143" width="75" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="354" y="167" text-anchor="middle" fill="#dce9e4">PostgreSQL</text><rect x="430" y="143" width="115" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="487" y="167" text-anchor="middle" fill="#dce9e4">REST APIs</text>
+  <!-- Left column -->
+  <g font-size="13" font-weight="600">
+    <text x="60" y="126" fill="#79c8b6">BACKEND</text>
+    <text x="60" y="226" fill="#79c8b6">FRONTEND</text>
+    <text x="60" y="326" fill="#79c8b6">QUALITY &amp; TOOLS</text>
+  </g>
 
-<text x="50" y="220" fill="#79c8b6">FRONTEND</text>
-<rect x="50" y="238" width="85" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="97" y="262" text-anchor="middle" fill="#dce9e4">Vue.js</text><rect x="135" y="238" width="100" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="182" y="262" text-anchor="middle" fill="#dce9e4">Inertia.js</text><rect x="240" y="238" width="85" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="287" y="262" text-anchor="middle" fill="#dce9e4">Livewire</text><rect x="350" y="238" width="120" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="410" y="262" text-anchor="middle" fill="#dce9e4">Tailwind CSS</text>
+  <!-- Backend row 1 -->
+  <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
+    <rect x="60" y="144" width="82" height="38" rx="19"/>
+    <rect x="152" y="144" width="92" height="38" rx="19"/>
+    <rect x="254" y="144" width="82" height="38" rx="19"/>
+    <rect x="346" y="144" width="116" height="38" rx="19"/>
+    <rect x="472" y="144" width="116" height="38" rx="19"/>
+  </g>
+  <g fill="#dce9e4" font-size="13" text-anchor="middle">
+    <text x="101" y="168">PHP</text>
+    <text x="198" y="168">Laravel</text>
+    <text x="295" y="168">MySQL</text>
+    <text x="404" y="168">PostgreSQL</text>
+    <text x="530" y="168">REST APIs</text>
+  </g>
 
-<text x="50" y="315" fill="#79c8b6">QUALITY &amp; TOOLS</text>
-<rect x="50" y="333" width="75" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="87" y="357" text-anchor="middle" fill="#dce9e4">PHPUnit</text><rect x="140" y="333" width="75" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="177" y="357" text-anchor="middle" fill="#dce9e4">PHPStan</text><rect x="235" y="333" width="75" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="272" y="357" text-anchor="middle" fill="#dce9e4">Pint</text><rect x="310" y="333" width="75" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="347" y="357" text-anchor="middle" fill="#dce9e4">Git</text><rect x="380" y="333" width="75" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="417" y="357" text-anchor="middle" fill="#dce9e4">Docker</text><rect x="470" y="333" width="105" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="522" y="357" text-anchor="middle" fill="#dce9e4">Postman</text><rect x="570" y="333" width="75" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/><text x="607" y="357" text-anchor="middle" fill="#dce9e4">Linux</text>
-</g>
+  <!-- Frontend row -->
+  <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
+    <rect x="60" y="244" width="92" height="38" rx="19"/>
+    <rect x="162" y="244" width="108" height="38" rx="19"/>
+    <rect x="280" y="244" width="96" height="38" rx="19"/>
+    <rect x="386" y="244" width="128" height="38" rx="19"/>
+  </g>
+  <g fill="#dce9e4" font-size="13" text-anchor="middle">
+    <text x="106" y="268">Vue.js</text>
+    <text x="216" y="268">Inertia.js</text>
+    <text x="328" y="268">Livewire</text>
+    <text x="450" y="268">Tailwind CSS</text>
+  </g>
 
-<path d="M760 130h310M760 150h220M760 170h260M760 280h330M760 300h250M760 320h300M760 340h210M760 360h270" stroke="#2f574d" stroke-width="6" stroke-linecap="round" opacity=".5"/>
-<circle cx="760" cy="130" r="6" fill="#4fb7a2"/><circle cx="760" cy="280" r="6" fill="#79c8b6"/>
-<text x="760" y="205" fill="#aabbb5" font-size="15">API design · authentication · authorization</text>
-<text x="760" y="225" fill="#aabbb5" font-size="15">database design · optimization · workflows</text>
-<text x="760" y="395" fill="#aabbb5" font-size="15">testing · maintainability · performance</text>
+  <!-- Quality row -->
+  <g fill="#0d2a22" stroke="#386f61" stroke-width="1">
+    <rect x="60" y="344" width="88" height="38" rx="19"/>
+    <rect x="158" y="344" width="88" height="38" rx="19"/>
+    <rect x="256" y="344" width="76" height="38" rx="19"/>
+    <rect x="342" y="344" width="72" height="38" rx="19"/>
+    <rect x="424" y="344" width="92" height="38" rx="19"/>
+    <rect x="526" y="344" width="100" height="38" rx="19"/>
+  </g>
+  <g fill="#dce9e4" font-size="13" text-anchor="middle">
+    <text x="104" y="368">PHPUnit</text>
+    <text x="202" y="368">PHPStan</text>
+    <text x="294" y="368">Pint</text>
+    <text x="378" y="368">Git</text>
+    <text x="470" y="368">Docker</text>
+    <text x="576" y="368">Postman</text>
+  </g>
+  <rect x="636" y="344" width="82" height="38" rx="19" fill="#0d2a22" stroke="#386f61"/>
+  <text x="677" y="368" fill="#dce9e4" font-size="13" text-anchor="middle">Linux</text>
+
+  <!-- Right column -->
+  <g stroke="#2f574d" stroke-width="6" stroke-linecap="round">
+    <path d="M820 142H1100"/>
+    <path d="M820 166H1035"/>
+    <path d="M820 190H1080"/>
+    <path d="M820 294H1110"/>
+    <path d="M820 318H1045"/>
+    <path d="M820 342H1085"/>
+    <path d="M820 366H1015"/>
+  </g>
+  <circle cx="820" cy="142" r="6" fill="#4fb7a2"/>
+  <circle cx="820" cy="294" r="6" fill="#79c8b6"/>
+
+  <text x="820" y="224" fill="#aabbb5" font-size="15">API design · authentication · authorization</text>
+  <text x="820" y="246" fill="#aabbb5" font-size="15">database design · optimization · workflows</text>
+  <text x="820" y="400" fill="#aabbb5" font-size="15">testing · maintainability · performance</text>
 </g>
 </svg>
