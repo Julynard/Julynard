@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-label="Build. Measure. Improve.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071512"/><stop offset="1" stop-color="#0c211b"/></linearGradient>
+  <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#18c7a1"/><stop offset=".5" stop-color="#4fb7a2"/><stop offset="1" stop-color="#18c7a1"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="330" rx="18" fill="#0b1016"/>
+<rect x="18" y="18" width="1164" height="294" rx="14" fill="url(#bg)" stroke="#29443e"/>
+<circle cx="108" cy="238" r="110" fill="#18c7a1" opacity=".08" filter="url(#soft)"/>
+<circle cx="1085" cy="236" r="125" fill="#18c77a" opacity=".07" filter="url(#soft)"/>
+<g opacity=".22" fill="none" stroke="#4fb7a2">
+  <path d="M18 232 C170 184 238 286 390 235 S610 190 760 250 S1010 275 1182 218"/>
+  <path d="M18 240 C170 192 238 294 390 243 S610 198 760 258 S1010 283 1182 226"/>
+  <path d="M18 248 C170 200 238 302 390 251 S610 206 760 266 S1010 291 1182 234"/>
+  <path d="M18 256 C170 208 238 310 390 259 S610 214 760 274 S1010 299 1182 242"/>
+  <path d="M18 264 C170 216 238 318 390 267 S610 222 760 282 S1010 307 1182 250"/>
+</g>
+<path d="M18 225 C170 177 238 279 390 228 S610 183 760 243 S1010 268 1182 211" fill="none" stroke="url(#wave)" stroke-width="3" opacity=".95" filter="url(#glow)"/>
+<path d="M18 225 C170 177 238 279 390 228 S610 183 760 243 S1010 268 1182 211" fill="none" stroke="#58e1c1" stroke-width="1.5"/>
+<g fill="#18c7a1" opacity=".75">
+  <circle cx="105" cy="92" r="3"/><circle cx="78" cy="120" r="2"/><circle cx="144" cy="144" r="2.5"/><circle cx="1080" cy="94" r="3"/><circle cx="1110" cy="126" r="2"/><circle cx="1040" cy="148" r="2.5"/>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <text x="600" y="108" fill="#e9f1ed" font-size="38" font-weight="700">Build. <tspan fill="#18c7a1">Measure.</tspan> Improve.</text>
+  <text x="600" y="145" fill="#91a7a0" font-size="16">Turning ideas into useful solutions, one commit at a time.</text>
+</g>
+<g stroke="#21483e" opacity=".7"><path d="M220 171H980"/></g>
+</svg>
