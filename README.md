@@ -20,7 +20,7 @@ My strongest area is the Laravel/PHP ecosystem, with experience across applicati
 
 ## Skills
 
-<img src="./assets/skills-v3.svg" alt="Julynard Tago-on skills" width="100%">
+<img src="./assets/skills-v4.svg" alt="Julynard Tago-on skills" width="100%">
 
 ## GitHub Stats
 
