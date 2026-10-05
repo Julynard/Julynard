@@ -63,11 +63,19 @@ Tests should protect business behavior, authorization, validation, API contracts
 **Keep systems understandable**  
 Good engineering is not about having the most layers. It is about having boundaries that make a system easier to change safely.
 
-## GitHub Activity
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Julynard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071512&title_color=79c8b6&text_color=dce9e4&icon_color=4fb7a2&ring_color=4fb7a2" alt="Julynard's GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julynard&layout=compact&hide_border=true&bg_color=071512&title_color=79c8b6&text_color=dce9e4" alt="Julynard's most used languages">
+
+</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julynard&bg_color=071512&color=79c8b6&line=4fb7a2&point=dce9e4&area=true&hide_border=true" alt="GitHub contribution activity">
 
-**Current public contribution snapshot:** 67 commits · 5 pull requests · 6 repositories contributed to in the current yearly contribution window.
+**Contribution activity:** GitHub's contribution graph can include private contributions when private contribution visibility is enabled on the profile. The statistics card above requests private contributions as well; whether private totals appear depends on the statistics service's access to that data.
 
 ## Achievements
 
