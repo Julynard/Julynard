@@ -1,8 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Julynard Tago-on — Laravel PHP Full-Stack Engineer">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071512"/><stop offset="1" stop-color="#0d211c"/></linearGradient>
-  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4fb7a2" stop-opacity=".08"/><stop offset="1" stop-color="#4fb7a2" stop-opacity=".42"/></linearGradient>
-  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#79c8b6" opacity=".18"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071512"/>
+    <stop offset="1" stop-color="#0d211c"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#4fb7a2" stop-opacity=".08"/>
+    <stop offset="1" stop-color="#4fb7a2" stop-opacity=".42"/>
+  </linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.2" fill="#79c8b6" opacity=".18"/>
+  </pattern>
 </defs>
 <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
 <rect width="1200" height="320" rx="22" fill="url(#dots)"/>
@@ -12,6 +20,4 @@
 <text x="54" y="142" fill="#79c8b6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Laravel / PHP Full-Stack Engineer</text>
 <text x="54" y="184" fill="#aabbb5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Production systems · APIs · Business workflows</text>
 <text x="54" y="213" fill="#aabbb5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Performance · Testing · Maintainable architecture</text>
-<text x="1060" y="226" text-anchor="middle" fill="#dce9e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="3">JLT</text>
-<circle cx="1060" cy="226" r="58" fill="none" stroke="#4fb7a2" stroke-width="2" opacity=".75"/>
 </svg>
